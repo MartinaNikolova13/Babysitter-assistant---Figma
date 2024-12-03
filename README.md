@@ -1,7 +1,7 @@
 # Babysitter-assistant---Figma
 
-##Проектът представлява платформата за намиране на детегледачи, която улеснява родителите при намирането на надеждни и проверени детегледачи. Платформата предоставя възможност за търсене на детегледачи по местоположение, преглед на профили, отзиви и рейтинги, както и планиране на услуги според нуждите на родителите.
+##The project is a platform for finding babysitters, designed to help parents easily locate reliable and verified caregivers. The platform allows users to search for babysitters by location, view profiles, reviews, and ratings, as well as schedule services based on the parents' needs.
 
-##Линк към прототипа: https://www.figma.com/design/CMkH7lZsHBcukRSjoPIvOI/Untitled?node-id=0-1&t=SFQ6MCfPuxH0garE-1
+##A link to the prototype: https://www.figma.com/design/CMkH7lZsHBcukRSjoPIvOI/Untitled?node-id=0-1&t=SFQ6MCfPuxH0garE-1
 
-## Автор: Мартина Николова
+## Author: Martina Nikolova
